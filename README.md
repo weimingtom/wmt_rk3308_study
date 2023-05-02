@@ -9,3 +9,8 @@ My rockchip study
 * https://github.com/TinkerBoard/gpio_lib_c  
 * https://github.com/TinkerBoard/gpio_lib_python  
 * https://github.com/TinkerBoard/gpio_lib_scratch  
+* https://www.asus.com.cn/motherboards-components/single-board-computer/all-series/tinker-board/#tinker-board-download/  
+* GPIO_API_for_C.zip  
+
+## Tinker Board 2S  
+* https://www.waveshare.net/wiki/Tinker_Board_2S_Manual  
